@@ -1,0 +1,3 @@
+com\microservice1\controller\FirstController.class
+com\microservice1\MicroserviceOneApplication.class
+com\microservice1\ServletInitializer.class
